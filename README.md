@@ -8,4 +8,7 @@ Solution is in two Jupyter notebooks:
 1. **[`comparison.ipynb`](./nonlinear_dimensionality_reduction/comparison.ipynb)** - First part  
 2. **[`visualizing_with_som.ipynb`](./nonlinear_dimensionality_reduction/visualizing_with_som.ipynb)** - Second part
 
+## Workshop 3 (Recurent Neural Network)
+This workshop can be found in the folder [`workshop3`](./workshop3).
+
 
